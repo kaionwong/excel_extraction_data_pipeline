@@ -21,7 +21,7 @@ save_log_switch = True
 full_municipality_list = ['beaumont', 'calgary', 'camrose', 'canmore_town', 'coaldale', 'devon', 
                           'edmonton', 'edson', 'fort_saskatchewan', 'grande_prairie', 'hinton', 
                           'lethbridge', 'lloydminster', 'medicine_hat', 'morinville', 'red_deer',
-                          'slave_lake', 'spruce_grove', 'st_albert', 'stony_plain', 'stony_plain',
+                          'slave_lake', 'spruce_grove', 'st_albert', 'stony_plain', 'strathcona_county',
                           'taber', 'wainwright', 'wetaskiwin', 'whitecourt']
 random_sample_n = random.randint(1, len(full_municipality_list))
 sample_loc_list = random.sample(full_municipality_list, random_sample_n)
